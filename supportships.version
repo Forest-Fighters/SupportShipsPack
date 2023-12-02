@@ -1,6 +1,6 @@
 {
     # A link to the raw .version JSON data
-    "masterVersionFile":"https://github.com/Forest-Fighters/SupportShipsPack/blob/main/supportships.version",
+    "masterVersionFile":"https://github.com/Forest-Fighters/SupportShipsPack/blob/815a8259e3771e0157ae52858f6c67c44102aa27/supportships.version",
     "modName":"Support Ships Pack",
     "modThreadId":25186,
     # The ID of the NexusMods page for this mod (optional)
